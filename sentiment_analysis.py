@@ -1,6 +1,4 @@
-# CS1026 - Assignment 3 - Sentiment Analysis
-# Name: Alan Guan
-# SN: 251142944
+#Alan Guan Code
 
 #lists for storing happiness value by region
 eastern_region = 0
