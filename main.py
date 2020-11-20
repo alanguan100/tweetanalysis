@@ -1,6 +1,4 @@
-# CS1026 - Assignment 3 - Main
-# Name: Alan Guan
-# SN: 251142944
+#Alan Guan Code
 
 from sentiment_analysis import *
 #program inputs
